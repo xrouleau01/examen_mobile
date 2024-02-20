@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Application</string>
+    <string name="tVModele">Modèle:</string>
+    <string name="tVCouleur">Couleur:</string>
+    <string name="tVNbJours">Nombre de jours</string>
+    <string name="eTNbJours">72$/jour</string>
+    <string name="tVLorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et consectetur sapien. Nam et imperdiet est. Nunc dapibus velit sed risus venenatis, eget lobortis justo bibendum. Aenean interdum metus ac consectetur placerat. Nam eu rutrum lectus. Suspendisse congue ex nec sem euismod pulvinar sit amet id magna. Proin non ex finibus, porta purus et, volutpat elit. Duis porttitor elit et dapibus posuere. Ut ullamcorper ornare ipsum vitae interdum. Phasellus ornare, orci ac ornare hendrerit, sapien risus malesuada felis, vulputate congue tellus eros vitae arcu. Maecenas vitae odio non nisi interdum finibus ac sit amet lacus. Praesent suscipit rhoncus erat at suscipit.\nMorbi eget pulvinar ipsum. Fusce eget metus sapien. Quisque facilisis accumsan sem, vel eleifend nisi ullamcorper ut. Phasellus pharetra sit amet purus ac faucibus. Sed aliquet enim vitae interdum dapibus. Maecenas libero tortor, molestie vel quam non, condimentum varius mauris. Donec vel dolor efficitur, volutpat lectus eu, lobortis tellus. Suspendisse potenti. Vivamus sit amet viverra velit. Pellentesque nec tempor tortor. Mauris maximus ante sed urna aliquam cursus. Phasellus tincidunt imperdiet ultrices. Sed at elit ut erat maximus laoreet et at eros. Curabitur ut dapibus odio. Nullam viverra metus eget nulla eleifend, in tincidunt ex molestie.    <string name="tVLorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et consectetur sapien. Nam et imperdiet est. Nunc dapibus velit sed risus venenatis, eget lobortis justo bibendum. Aenean interdum metus ac consectetur placerat. Nam eu rutrum lectus. Suspendisse congue ex nec sem euismod pulvinar sit amet id magna. Proin non ex finibus, porta purus et, volutpat elit. Duis porttitor elit et dapibus posuere. Ut ullamcorper ornare ipsum vitae interdum. Phasellus ornare, orci ac ornare hendrerit, sapien risus malesuada felis, vulputate congue tellus eros vitae arcu. Maecenas vitae odio non nisi interdum finibus ac sit amet lacus. Praesent suscipit rhoncus erat at suscipit.\nMorbi eget pulvinar ipsum. Fusce eget metus sapien. Quisque facilisis accumsan sem, vel eleifend nisi ullamcorper ut. Phasellus pharetra sit amet purus ac faucibus. Sed aliquet enim vitae interdum dapibus. Maecenas libero tortor, molestie vel quam non, condimentum varius mauris. Donec vel dolor efficitur, volutpat lectus eu, lobortis tellus. Suspendisse potenti. Vivamus sit amet viverra velit. Pellentesque nec tempor tortor. Mauris maximus ante sed urna aliquam cursus. Phasellus tincidunt imperdiet ultrices. Sed at elit ut erat maximus laoreet et at eros. Curabitur ut dapibus odio. Nullam viverra metus eget nulla eleifend, in tincidunt ex molestie.</string>
+</string>
+    <string name="tVTermes">J\'accepte les termes du contrat</string>
+    <string name="bReserver">Réserver</string>
+    <string name="tVMerci">Merci pour votre réservation!</string>
+    <string name="bQuitter">Quitter</string>
+    <string name="tVTotal">Total:</string>
+    <string name="tVCout">$ 270.00</string>
+    <string name="avatar">avatar</string>
+    <string name="IclassyCar">classycar</string>
+    <string-array name="lstModeles">
+        <item>Civic</item>
+        <item>Corolla</item>
+        <item>Accent</item>
+        <item>Leaf</item>
+        <item>Prius</item>
+    </string-array>
+    <string-array name="lstCouleurs">
+        <item>Noir</item>
+        <item>Blanc</item>
+        <item>Rouge</item>
+        <item>Jaune</item>
+        <item>Vert</item>
+    </string-array>
+</resources>
